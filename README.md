@@ -7,4 +7,4 @@ Landing page:
 ![bfeed6757d4aa562ae26d331facec6dc](https://github.com/zafeera1/basic-profile-page/assets/142850725/b3e6fb06-8dac-4e5b-96de-241a903a1f57)
 
 
-Deployed link:
+Deployed link:https://zafeera1.github.io/basic-profile-page/
